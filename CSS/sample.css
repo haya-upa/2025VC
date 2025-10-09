@@ -21,7 +21,7 @@ body {
 }
 
 .text-box {
-    margin: 15px;
+    margin: 30px;
 }
 
 span{
@@ -33,4 +33,5 @@ h1 {
   /*font: bold italic x-large*/
   /*"Times New Roman",Times,serif*/
 }
+
 
