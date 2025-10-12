@@ -15,8 +15,8 @@ header{
 
 header img{
 	margin: auto;
-	max-width: 30%; 
-	max-height: 30%; 
+	max-width: 20%; 
+	max-height: 20%; 
 	padding: 0;
 }
 
@@ -67,4 +67,5 @@ img{
 	max-width: 45%;
 	margin: 10px auto;
 }
+
 
