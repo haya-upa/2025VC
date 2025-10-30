@@ -1,0 +1,38 @@
+ul.ddmenu{
+	margin: 0px;
+	padding: 0 0 0 15px;
+	background-color: #0572A7;
+}
+
+ul.ddmenu li{
+	width: 120px;
+	display: inline-block;
+	list-style-type: none;
+	position: relative;
+}
+
+ul.ddmenu a{
+	background-color: #0572A7;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+}
+
+ul.ddmenu ul{
+	display: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+
+ul.ddmenu a:hover{
+	background-color: #4EE7E9;
+	color: #0572A7;
+}
+
+ul.ddmenu li:hover ul{
+	display: block;
+}
